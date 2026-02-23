@@ -61,6 +61,8 @@ The system eliminates manual intervention after artwork upload.
 ---
 
 ## 🏗 System Architecture
+
+```
 Customer (Shopify Store)
 │
 ▼
@@ -83,6 +85,7 @@ Cron Job Engine (5 min interval)
 ├── Background Timeout Check
 ├── Auto Approval (72h)
 └── Reminder Email (18h interval)
+```
 
 ---
 
@@ -204,6 +207,7 @@ _(Blurred for confidentiality)_
 
 This repository contains documentation and screenshots only.
 
+```
 mypetprints-case-study/
 │
 ├── README.md
@@ -215,13 +219,7 @@ mypetprints-case-study/
     ├── background-list.png
     ├── customer-background-selected.png
     └── cron-automation.png 
-
-mypetprints-case-study/
-│
-├── README.md
-└── screenshots/
-    ├── file1.png
-    └── file2.png
+```
 
 ---
 
