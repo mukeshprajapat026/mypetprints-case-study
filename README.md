@@ -187,9 +187,13 @@ No admin involvement required once artwork is uploaded.
 ### 1️⃣ Trello Workflow Automation  
 _(Blurred for confidentiality)_  
 ![Trello Workflow](screenshots/trello-workflow.png)
+![Trello Workflow](screenshots/trello-workflow-approved-card.png)
+![Trello Workflow](screenshots/trello-workflow-card.png)
 
 ### 2️⃣ Customer Artwork Approval Portal  
 ![Customer Portal](screenshots/customer-approval.png)
+![Customer Portal](screenshots/background-list.png)
+![Customer Portal](screenshots/customer-background-selected.png)
 
 ### 3️⃣ Cron Automation Engine  
 ![Cron System](screenshots/cron-automation.png)
@@ -206,6 +210,10 @@ mypetprints-case-study/
 └── screenshots/
 ├── trello-workflow.png
 ├── customer-approval.png
+├── trello-workflow-approved-card.png
+├── trello-workflow-card.png
+├── background-list.png
+├── customer-background-selected.png
 └── cron-automation.png
 
 ---
