@@ -214,7 +214,7 @@ mypetprints-case-study/
 ├── trello-workflow-card.png
 ├── background-list.png
 ├── customer-background-selected.png
-└── cron-automation.png
+└── cron-automation.png 
 
 ---
 
