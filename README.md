@@ -208,13 +208,20 @@ mypetprints-case-study/
 │
 ├── README.md
 └── screenshots/
-├── trello-workflow.png
-├── customer-approval.png
-├── trello-workflow-approved-card.png
-├── trello-workflow-card.png
-├── background-list.png
-├── customer-background-selected.png
-└── cron-automation.png 
+    ├── trello-workflow.png
+    ├── customer-approval.png
+    ├── trello-workflow-approved-card.png
+    ├── trello-workflow-card.png
+    ├── background-list.png
+    ├── customer-background-selected.png
+    └── cron-automation.png 
+
+mypetprints-case-study/
+│
+├── README.md
+└── screenshots/
+    ├── file1.png
+    └── file2.png
 
 ---
 
